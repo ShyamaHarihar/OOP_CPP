@@ -4,3 +4,4 @@ My object oriented programming practice in c++
 2.heapmemory-class:Creating an object in heap memory
 3.Accessor and Mutator with user validation
 4.Types of Constructor
+5.Scope Resolution and inline functions
